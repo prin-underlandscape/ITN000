@@ -1,5 +1,5 @@
-# ITN000 (mappa non collegata)
-descrizione del dataset mancante
+# ITN000 ([mappa](https://umap.openstreetmap.fr/it/map/itn000_1050205))
+Itinerario di valorizzazione turistica della zona di Casoli
 ## POI:  Lago di Casoli
 **Lago di origine glaciale, alla cui sponda sud è stata rinvenuta un'area di dispersione di materiale area di dispersione di materiali ceramici (ceramica a pareti sottili, maiolica arcaica tarda, ceramica invetriata postmedievale e slip-ware), che ne attesta una frequentazione dall'età romana.**
 ## POI: Chiesa di Sant'Andrea de Lacu e edificio residenziale
