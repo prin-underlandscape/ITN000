@@ -1,5 +1,23 @@
-# ITN000 ([mappa](https://umap.openstreetmap.fr/it/map/itn000_1050205))
-Itinerario di valorizzazione turistica della zona di Casoli
+# ITN000 (mappa non collegata)
+descrizione del dataset mancante
+## Percorso: Percorso Piella
+****
+## Percorso: Casoli - Isola
+****
+## Percorso: Diramazione Ugola
+****
+## Percorso: Deviazione al Memoriante
+****
+## Percorso: Diretta al Memoriante
+****
+## Percorso: Escursione verso Cocciglia
+****
+## Percorso: Monte Memoriante - Penna di Lucchio
+****
+## Percorso: Percorso a Lucchio
+****
+## Percorso: Percorso a Casoli
+****
 ## POI:  Lago di Casoli
 **Lago di origine glaciale, alla cui sponda sud è stata rinvenuta un'area di dispersione di materiale area di dispersione di materiali ceramici (ceramica a pareti sottili, maiolica arcaica tarda, ceramica invetriata postmedievale e slip-ware), che ne attesta una frequentazione dall'età romana.**
 ## POI: Chiesa di Sant'Andrea de Lacu e edificio residenziale
@@ -12,18 +30,6 @@ Itinerario di valorizzazione turistica della zona di Casoli
 **Cappella a pianta rettangolare in muratura alla moderna con recinto d'ingresso. In facciata sono presenti panchine laterali all'apertura di ingresso che appare tamponata e rimaneggiata.**
 ## POI: Antro dell'Ugola
 **Cavità costituita da due aperture, una più ampia e profonda, il cui ingresso ha una conformazione che ricorda un ugola.**
-## Percorso: Diramazione Ugola
-****
-## Percorso: Percorso a Lucchio
-****
-## Percorso: Monte Memoriante - Penna di Lucchio
-****
-## Percorso: Deviazione al Memoriante
-****
-## Percorso: Diretta al Memoriante
-****
-## Percorso: Casoli - Isola
-****
 ## POI: Agriturismo Fanny Azienda Agricola
 ****
 ## POI: Balzo Rotondo
@@ -44,17 +50,11 @@ Itinerario di valorizzazione turistica della zona di Casoli
 ****
 ## POI: Cresta Monte Memoriante 
 ****
-## Percorso: Escursione verso Cocciglia
-****
 ## POI: Fonte con lavatoio
 ****
 ## POI: Grotta di Ponte Nero 2
 **Grotta di medie dimensioni costituita da due aperture; dal deposito originario proviene un'industria litica composta da 282 pezzi attribuibili all'epigravettiano finale e resti faunistici (tra cui Stambecco e Marmotta),  frammenti fittili eneolitici e dell’età del ferro**
 ## POI: Inizio di Escursione verso Cocciglia
-****
-## POI: Inizio percorso Ugola e Piella
-****
-## Percorso: Percorso Piella
 ****
 ## POI: Insediamento ecclesiastico
 **complesso costituito da chiesa a pianta rettagolare con muratura in facciata realizzata in conci squadrati in calcare e arenaria disposti su filari regolari. Le navate laterali, aggiunte successivamente, sono in muratura alla moderna e inglobano il campanile.**
@@ -64,8 +64,6 @@ Itinerario di valorizzazione turistica della zona di Casoli
 ****
 ## POI: Penna di Lucchio
 ****
-## Percorso: Percorso a Casoli
-****
 ## POI: Riparo vicino Piella
 **Riparo di piccole dimensioni posto a circa 150 m a sud della Buca della Piella, su terrazzo fluviare a circa 20 m sopra l'attuale corso del rio di Castello.**
 ## POI: Rocca di Lucchio
@@ -73,4 +71,20 @@ Itinerario di valorizzazione turistica della zona di Casoli
 ## POI: T-rafting Val di Lima
 ****
 ## POI: Villa delle Rose
+****
+## POI: Inizio percorso Ugola e Piella
+****
+## POI: Lucchio accesso
+****
+## POI: Lucchio parcheggio
+****
+## POI: Casoli accesso percorso
+****
+## POI: Casoli parcheggio
+****
+## POI: Deviazione per Memoriante
+****
+## POI: Deviazione percorso di costa
+****
+## POI: Deviazoine Penna di Lucchi
 ****
