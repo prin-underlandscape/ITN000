@@ -1,5 +1,5 @@
-# ITN000 (mappa non collegata)
-descrizione del dataset mancante
+# ITN000 ([mappa](https://umap.openstreetmap.fr/it/map/itn000_1050205))
+Bagni di Lucca Heritage itinerary 
 ## Percorso: Percorso Piella
 ****
 ## Percorso: Casoli - Isola
@@ -86,5 +86,5 @@ descrizione del dataset mancante
 ****
 ## POI: Deviazione percorso di costa
 ****
-## POI: Deviazoine Penna di Lucchi
+## POI: Deviazione Penna di Lucchi
 ****

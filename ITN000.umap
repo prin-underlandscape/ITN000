@@ -40,8 +40,8 @@
           "properties": {
             "ulsp_type": "Percorso",
             "Titolo": "Percorso Piella",
-            "Provincia": "",
-            "Comune": "",
+            "Provincia": "Lucca",
+            "Comune": "Lucca",
             "Punto d'accesso": "",
             "Foto accesso": "",
             "Descrizione": "",
@@ -59,7 +59,7 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "LineString",
@@ -301,58 +301,12 @@
         {
           "type": "Feature",
           "properties": {
-            "description": "Con deviazione per Penna di Lucchio\n",
-            "styleUrl": "#line-000000-1200",
-            "stroke-opacity": 1,
-            "stroke": "#000000",
-            "stroke-width": 1.2,
-            "descrizione": "[object Object]",
-            "Sito": "",
-            "Provincia": "",
-            "Comune": "",
-            "Toponimo": "",
-            "Microtoponimo": "",
-            "Strade d'accesso": "",
-            "Altri elementi di localizzazione": "",
-            "Tipologia sito": "",
-            "Definizione sito": "",
+            "Provincia": "Lucca\nLucca",
+            "Comune": "Casoli",
             "Descrizione": "",
-            "Cronologia iniziale": "",
-            "Cronologia finale": "",
-            "Reperti Ceramici": "",
-            "Reperti geologici": "",
-            "Reperti organici": "",
-            "Altri manufatti": "",
-            "Dimensioni": "",
-            "Sicurezza: descrizione delle condizioni di fruizione del sito": "",
-            "Accessibilità": "",
             "Copertura rete mobile": "",
             "Copertura GPS": "",
-            "Note": "",
-            "Altitudine m": "",
-            "Latitudine": "",
-            "Longitudine": "",
             "Data": "",
-            "Bibliografia": "",
-            "cmt": "",
-            "desc": "",
-            "src": "",
-            "link1_href": "",
-            "link1_text": "",
-            "link1_type": "",
-            "link2_href": "",
-            "link2_text": "",
-            "link2_type": "",
-            "number": "",
-            "type": "",
-            "locus_activity": "",
-            "name_2": "",
-            "cmt_2": "",
-            "desc_2": "",
-            "src_2": "",
-            "link1_href_2": "",
-            "link1_text_2": "",
-            "link1_type_2": "",
             "ulsp_type": "Percorso",
             "Titolo": "Casoli - Isola",
             "Punto d'accesso": "",
@@ -365,11 +319,10 @@
             "Segnaletica": "",
             "Strumento": "",
             "Ora": "",
-            "name": "Casoli - Isola",
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "LineString",
@@ -3306,59 +3259,12 @@
         {
           "type": "Feature",
           "properties": {
-            "description": "",
-            "styleUrl": "#line-000000-1200",
-            "stroke-opacity": 1,
-            "stroke": "#000000",
-            "stroke-width": 1.2,
-            "descrizione": "",
-            "Sito": "",
-            "Provincia": "",
-            "Comune": "",
-            "Toponimo": "",
-            "Microtoponimo": "",
-            "Strade d'accesso": "",
-            "Altri elementi di localizzazione": "",
-            "Tipologia sito": "",
-            "Definizione sito": "",
+            "Provincia": "Lucca",
+            "Comune": "Casoli",
             "Descrizione": "",
-            "Cronologia iniziale": "",
-            "Cronologia finale": "",
-            "Reperti Ceramici": "",
-            "Reperti geologici": "",
-            "Reperti organici": "",
-            "Altri manufatti": "",
-            "Dimensioni": "",
-            "Sicurezza: descrizione delle condizioni di fruizione del sito": "",
-            "Accessibilità": "",
             "Copertura rete mobile": "",
             "Copertura GPS": "",
-            "Note": "",
-            "Altitudine m": "",
-            "Latitudine": "",
-            "Longitudine": "",
             "Data": "",
-            "Bibliografia": "",
-            "name": "Deiazione Ugola",
-            "cmt": "",
-            "desc": "",
-            "src": "",
-            "link1_href": "",
-            "link1_text": "",
-            "link1_type": "",
-            "link2_href": "",
-            "link2_text": "",
-            "link2_type": "",
-            "number": "",
-            "type": "",
-            "locus_activity": "",
-            "name_2": "",
-            "cmt_2": "",
-            "desc_2": "",
-            "src_2": "",
-            "link1_href_2": "",
-            "link1_text_2": "",
-            "link1_type_2": "",
             "ulsp_type": "Percorso",
             "Titolo": "Diramazione Ugola",
             "Punto d'accesso": "",
@@ -3374,7 +3280,7 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "LineString",
@@ -3466,7 +3372,8 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "LineString",
@@ -3938,14 +3845,10 @@
         {
           "type": "Feature",
           "properties": {
-            "styleUrl": "#line-FF0000-1000-nodesc",
-            "stroke-opacity": 1,
-            "stroke": "#ff0000",
-            "stroke-width": 1,
             "ulsp_type": "Percorso",
             "Titolo": "Diretta al Memoriante",
-            "Provincia": "",
-            "Comune": "",
+            "Provincia": "Lucca",
+            "Comune": "Casoli",
             "Punto d'accesso": "",
             "Foto accesso": "",
             "Descrizione": "",
@@ -3960,11 +3863,10 @@
             "Strumento": "",
             "Data": "",
             "Ora": "",
-            "name": "Diretta al Memoriante",
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "LineString",
@@ -4731,59 +4633,12 @@
         {
           "type": "Feature",
           "properties": {
-            "name": "Escursione verso Cocciglia",
-            "description": "[object Object]",
-            "styleUrl": "#line-000000-1200",
-            "stroke-opacity": 1,
-            "stroke": "#000000",
-            "stroke-width": 1.2,
-            "descrizione": "[object Object]",
-            "Sito": "",
-            "Provincia": "",
-            "Comune": "",
-            "Toponimo": "",
-            "Microtoponimo": "",
-            "Strade d'accesso": "",
-            "Altri elementi di localizzazione": "",
-            "Tipologia sito": "",
-            "Definizione sito": "",
+            "Provincia": "Lucca",
+            "Comune": "Caoli",
             "Descrizione": "",
-            "Cronologia iniziale": "",
-            "Cronologia finale": "",
-            "Reperti Ceramici": "",
-            "Reperti geologici": "",
-            "Reperti organici": "",
-            "Altri manufatti": "",
-            "Dimensioni": "",
-            "Sicurezza: descrizione delle condizioni di fruizione del sito": "",
-            "Accessibilità": "",
             "Copertura rete mobile": "",
             "Copertura GPS": "",
-            "Note": "",
-            "Altitudine m": "",
-            "Latitudine": "",
-            "Longitudine": "",
             "Data": "",
-            "Bibliografia": "",
-            "cmt": "",
-            "desc": "",
-            "src": "",
-            "link1_href": "",
-            "link1_text": "",
-            "link1_type": "",
-            "link2_href": "",
-            "link2_text": "",
-            "link2_type": "",
-            "number": "",
-            "type": "",
-            "locus_activity": "",
-            "name_2": "",
-            "cmt_2": "",
-            "desc_2": "",
-            "src_2": "",
-            "link1_href_2": "",
-            "link1_text_2": "",
-            "link1_type_2": "",
             "ulsp_type": "Percorso",
             "Titolo": "Escursione verso Cocciglia",
             "Punto d'accesso": "",
@@ -4799,7 +4654,7 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "LineString",
@@ -5408,7 +5263,8 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "LineString",
@@ -5745,19 +5601,6 @@
         {
           "type": "Feature",
           "properties": {
-            "description": {
-              "@type": "html",
-              "value": "descrizione: <br>osm_id: 413990220<br>highway: path<br>z_order: 0<br>other_tags: \"bicycle\"=&gt;\"yes\",\"foot\"=&gt;\"yes\",\"width\"=&gt;\"1\""
-            },
-            "styleUrl": "#line-FF0000-1000",
-            "stroke-opacity": 1,
-            "stroke": "#ff0000",
-            "stroke-width": 1,
-            "descrizione": "",
-            "osm_id": "413990220",
-            "highway": "path",
-            "z_order": "0",
-            "other_tags": "\"bicycle\"=&gt;\"yes\",\"foot\"=&gt;\"yes\",\"width\"=&gt;\"1\"",
             "ulsp_type": "Percorso",
             "Titolo": "Percorso a Lucchio",
             "Provincia": "",
@@ -5776,11 +5619,10 @@
             "Strumento": "",
             "Data": "",
             "Ora": "",
-            "name": "Percoroso Lucchio",
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "LineString",
@@ -6245,7 +6087,8 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "LineString",
@@ -6798,7 +6641,7 @@
         "color": "Brown",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo}\n##   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n{Descrizione}\n--- \n**Lunghezza** (km): {Lunghezza}\n**Durata**: {Durata}\n**Dislivello in salita** (m): {Dislivello in salita}\n**Dislivello in discesa** (m): {Dislivello in discesa} \n--- \nRegistrato il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
+        "popupContentTemplate": "# {Titolo}\n##   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n##   [[{GitHubURL}|GitHub repository]] \n{Descrizione}\n--- \n**Lunghezza** (km): {Lunghezza}\n**Durata**: {Durata}\n**Dislivello in salita** (m): {Dislivello in salita}\n**Dislivello in discesa** (m): {Dislivello in discesa} \n--- \nRegistrato il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
       }
     },
     {
@@ -6824,9 +6667,10 @@
             "Autore": "",
             "Tag primario": "Attrazione naturalistica",
             "Altri tag": [
-              "Attrazione naturalistica"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -6858,9 +6702,9 @@
             "Autore": "",
             "Tag primario": "Monumento",
             "Altri tag": [
-              "Monumento"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -6892,9 +6736,10 @@
             "Autore": "",
             "Tag primario": "Monumento",
             "Altri tag": [
-              "Monumento"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -6920,7 +6765,7 @@
             "Autore": "",
             "Tag primario": "Monumento",
             "Altri tag": [
-              "Monumento"
+              ""
             ],
             "_umap_options": {
               "popupTemplate": "Default",
@@ -6928,7 +6773,8 @@
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/monument.svg"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -6960,9 +6806,10 @@
             "Autore": "",
             "Tag primario": "Monumento",
             "Altri tag": [
-              "Monumento"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -6988,7 +6835,7 @@
             "Autore": "",
             "Tag primario": "Grotta",
             "Altri tag": [
-              "Grotta"
+              ""
             ],
             "_umap_options": {
               "popupTemplate": "Default",
@@ -6996,7 +6843,8 @@
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/star.svg"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7028,9 +6876,10 @@
             "Ora": "",
             "Tag primario": "Accoglienza",
             "Altri tag": [
-              "Accoglienza"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7061,9 +6910,10 @@
             "Ora": "",
             "Tag primario": "Attrazione naturalistica",
             "Altri tag": [
-              "Attrazione naturalistica"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7094,9 +6944,10 @@
             "Ora": "",
             "Tag primario": "Accoglienza",
             "Altri tag": [
-              "Accoglienza"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7127,9 +6978,10 @@
             "Ora": "",
             "Tag primario": "Accoglienza",
             "Altri tag": [
-              "Accoglienza"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7160,9 +7012,10 @@
             "Ora": "",
             "Tag primario": "Accoglienza",
             "Altri tag": [
-              "Accoglienza"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7193,9 +7046,10 @@
             "Ora": "",
             "Tag primario": "Accoglienza",
             "Altri tag": [
-              "Accoglienza"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7226,9 +7080,10 @@
             "Autore": "",
             "Tag primario": "Grotta",
             "Altri tag": [
-              "Grotta"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7247,7 +7102,7 @@
               "popupTemplate": "Default",
               "color": "DarkViolet",
               "iconClass": "Drop",
-              "iconUrl": "/uploads/pictogram/pitch.svg"
+              "iconUrl": "https://i.postimg.cc/FKBTtN7Q/trekking.png"
             },
             "ulsp_type": "POI",
             "Titolo": "Canyon Park Canyon Avventura",
@@ -7260,9 +7115,10 @@
             "Ora": "",
             "Tag primario": "Svago",
             "Altri tag": [
-              "Svago"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7293,9 +7149,10 @@
             "Autore": "",
             "Tag primario": "Museo",
             "Altri tag": [
-              "Museo"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7327,9 +7184,10 @@
             "Ora": "",
             "Tag primario": "Attrazione naturalistica",
             "Altri tag": [
-              "Attrazione naturalistica"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7360,9 +7218,10 @@
             "Autore": "",
             "Tag primario": "Servizi",
             "Altri tag": [
-              "Servizi"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7394,9 +7253,10 @@
             "Ora": "",
             "Tag primario": "Grotta",
             "Altri tag": [
-              "Grotta"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7421,11 +7281,14 @@
             "Strumento": "",
             "Ora": "",
             "_umap_options": {
-              "popupTemplate": "Default"
+              "popupTemplate": "Default",
+              "color": "Green",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/guidepost.svg"
             },
-            "Tag primario": "",
+            "Tag primario": "Segnaletica",
             "Altri tag": "",
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7457,9 +7320,10 @@
             "Autore": "",
             "Tag primario": "Monumento",
             "Altri tag": [
-              "Monumento"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7491,9 +7355,9 @@
             "Ora": "",
             "Tag primario": "Monumento",
             "Altri tag": [
-              "Monumento"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7519,7 +7383,7 @@
             "Ora": "",
             "Tag primario": "Ristoro",
             "Altri tag": [
-              "Ristoro"
+              ""
             ],
             "_umap_options": {
               "popupTemplate": "Default",
@@ -7527,7 +7391,8 @@
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/restaurant.svg"
             },
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7558,9 +7423,10 @@
             "Ora": "",
             "Tag primario": "Attrazione naturalistica",
             "Altri tag": [
-              "Attrazione naturalistica"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7591,9 +7457,10 @@
             "Autore": "",
             "Tag primario": "Attrazione naturalistica",
             "Altri tag": [
-              "Attrazione naturalistica"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7625,9 +7492,10 @@
             "Autore": "",
             "Tag primario": "Monumento",
             "Altri tag": [
-              "Monumento"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7646,7 +7514,7 @@
               "popupTemplate": "Default",
               "color": "DarkViolet",
               "iconClass": "Drop",
-              "iconUrl": "/uploads/pictogram/pitch.svg"
+              "iconUrl": "https://i.postimg.cc/FKBTtN7Q/trekking.png"
             },
             "ulsp_type": "POI",
             "Titolo": "T-rafting Val di Lima",
@@ -7659,9 +7527,10 @@
             "Ora": "",
             "Tag primario": "Svago",
             "Altri tag": [
-              "Svago"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7692,9 +7561,10 @@
             "Ora": "",
             "Tag primario": "Accoglienza",
             "Altri tag": [
-              "Accoglienza"
+              ""
             ],
-            "Link": "https://sites.google.com/view/prin-underlandscape"
+            "Link": "https://sites.google.com/view/prin-underlandscape",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7709,7 +7579,10 @@
           "type": "Feature",
           "properties": {
             "_umap_options": {
-              "popupTemplate": "Default"
+              "popupTemplate": "Default",
+              "color": "Green",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/guidepost.svg"
             },
             "ulsp_type": "POI",
             "Titolo": "Inizio percorso Ugola e Piella",
@@ -7720,8 +7593,11 @@
             "Strumento": "",
             "Data": "",
             "Ora": "",
-            "Tag primario": "",
-            "Altri tag": ""
+            "Tag primario": "Segnaletica",
+            "Altri tag": [
+              ""
+            ],
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7748,7 +7624,8 @@
             "Data": "",
             "Ora": "",
             "Tag primario": "",
-            "Altri tag": ""
+            "Altri tag": "",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7763,7 +7640,10 @@
           "type": "Feature",
           "properties": {
             "_umap_options": {
-              "popupTemplate": "Default"
+              "popupTemplate": "Default",
+              "color": "Red",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/government.svg"
             },
             "Titolo": "Lucchio parcheggio",
             "ulsp_type": "POI",
@@ -7774,8 +7654,9 @@
             "Strumento": "",
             "Data": "",
             "Ora": "",
-            "Tag primario": "",
-            "Altri tag": ""
+            "Tag primario": "Servizi",
+            "Altri tag": "",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7790,7 +7671,10 @@
           "type": "Feature",
           "properties": {
             "_umap_options": {
-              "popupTemplate": "Default"
+              "popupTemplate": "Default",
+              "color": "Green",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/guidepost.svg"
             },
             "Titolo": "Casoli accesso percorso",
             "ulsp_type": "POI",
@@ -7801,8 +7685,9 @@
             "Strumento": "",
             "Data": "",
             "Ora": "",
-            "Tag primario": "",
-            "Altri tag": ""
+            "Tag primario": "Segnaletica",
+            "Altri tag": "",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7817,7 +7702,10 @@
           "type": "Feature",
           "properties": {
             "_umap_options": {
-              "popupTemplate": "Default"
+              "popupTemplate": "Default",
+              "color": "Red",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/government.svg"
             },
             "Titolo": "Casoli parcheggio",
             "ulsp_type": "POI",
@@ -7828,8 +7716,9 @@
             "Strumento": "",
             "Data": "",
             "Ora": "",
-            "Tag primario": "",
-            "Altri tag": ""
+            "Tag primario": "Servizi",
+            "Altri tag": "",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7844,7 +7733,10 @@
           "type": "Feature",
           "properties": {
             "_umap_options": {
-              "popupTemplate": "Default"
+              "popupTemplate": "Default",
+              "color": "Green",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/guidepost.svg"
             },
             "Titolo": "Deviazione per Memoriante",
             "ulsp_type": "POI",
@@ -7855,8 +7747,9 @@
             "Strumento": "",
             "Data": "",
             "Ora": "",
-            "Tag primario": "",
-            "Altri tag": ""
+            "Tag primario": "Segnaletica",
+            "Altri tag": "",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7871,7 +7764,10 @@
           "type": "Feature",
           "properties": {
             "_umap_options": {
-              "popupTemplate": "Default"
+              "popupTemplate": "Default",
+              "color": "Green",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/guidepost.svg"
             },
             "Titolo": "Deviazione percorso di costa",
             "ulsp_type": "POI",
@@ -7882,8 +7778,9 @@
             "Strumento": "",
             "Data": "",
             "Ora": "",
-            "Tag primario": "",
-            "Altri tag": ""
+            "Tag primario": "Segnaletica",
+            "Altri tag": "",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7898,10 +7795,13 @@
           "type": "Feature",
           "properties": {
             "_umap_options": {
-              "popupTemplate": "Default"
+              "popupTemplate": "Default",
+              "color": "Green",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/guidepost.svg"
             },
             "ulsp_type": "POI",
-            "Titolo": "Deviazoine Penna di Lucchi",
+            "Titolo": "Deviazione Penna di Lucchi",
             "Foto": "",
             "Descrizione": "",
             "Altitudine": "",
@@ -7909,8 +7809,9 @@
             "Strumento": "",
             "Data": "",
             "Ora": "",
-            "Tag primario": "",
-            "Altri tag": ""
+            "Tag primario": "Segnaletica",
+            "Altri tag": "",
+            "GitHubURL": "https://github.com/prin-underlandscape/ITN000"
           },
           "geometry": {
             "type": "Point",
@@ -7931,7 +7832,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo} {Tag primario}\n{{{Foto}|300}} \n##   [[{Link}|Link]] alla pagina dedicata \n{Descrizione} \n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}\n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
+        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}} \n##   [[{GitHubURL}|GitHub repository]] \n##   [[{Link}|Link]] alla pagina dedicata \n{Descrizione} \n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}\n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
       }
     },
     {
@@ -7946,7 +7847,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo} \n{{{Foto}|300}} \n \n{Testo} \n \nFID: {fid}"
+        "popupContentTemplate": "# {Titolo} \n{{{Foto}|300}} \n## [[{GitHubURL}|GitHub repository]] \n{Testo} \n \nFID: {fid}"
       }
     },
     {
@@ -7961,7 +7862,22 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} \n## [[{Link}|Link]] alla pagina dedicata\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[{Bibliografia}|Link]] alla bibliografia"
+        "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} \n##   [[{GitHubURL}|GitHub repository]] \n## [[{Link}|Link]] alla pagina dedicata\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[{Bibliografia}|Link]] alla bibliografia"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Risorsa",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "Brown",
+        "iconClass": "Ball",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}}\n{Descrizione}\n**Altitudine** (m): {Altitudine}\n**Repository GitHub**: [[{GitHubURL}|link]]\n**Pagina descrittiva dell'itinerario**: [[{ULSPLink}|link]]\n**Pagina descrittiva della risorsa** :[[{Link}|link]]\n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}"
       }
     }
   ],
