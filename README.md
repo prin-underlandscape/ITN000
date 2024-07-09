@@ -1,90 +1,98 @@
 # ITN000 ([mappa](https://umap.openstreetmap.fr/it/map/itn000_1050205))
 Bagni di Lucca Heritage itinerary 
-## Percorso: Percorso Piella
-****
-## Percorso: Casoli - Isola
-****
-## Percorso: Diramazione Ugola
-****
-## Percorso: Deviazione al Memoriante
-****
-## Percorso: Diretta al Memoriante
-****
-## Percorso: Escursione verso Cocciglia
-****
-## Percorso: Monte Memoriante - Penna di Lucchio
-****
-## Percorso: Percorso a Lucchio
-****
-## Percorso: Percorso a Casoli
-****
-## POI:  Lago di Casoli
+## Risorsa:  Lago di Casoli
 **Lago di origine glaciale, alla cui sponda sud è stata rinvenuta un'area di dispersione di materiale area di dispersione di materiali ceramici (ceramica a pareti sottili, maiolica arcaica tarda, ceramica invetriata postmedievale e slip-ware), che ne attesta una frequentazione dall'età romana.**
-## POI: Chiesa di Sant'Andrea de Lacu e edificio residenziale
+## Risorsa: Chiesa di Sant'Andrea de Lacu
 **corpo di fabbrica a pianta rettangolare con abside semi-circolare sul lato est, con muratura in bozze litiche squadrate o riquadrate su filari regolari; di fianco all'abside si trova un edificio residenziale (?) costituito da un corpo di fabbrica in muratura bassomedievale**
-## POI: Castello di Casoli
+## Risorsa: Castello di Casoli
 **Complesso della rocca sommitale con edifici di servizio, cinta muraria sul lato N e W, cisterna e possibile torre; sporadici frammenti ceramici bassomedievali**
-## POI: Cappella della Madonna di Col del Piano
+## Risorsa: Cappella della Madonna di Col del Piano
 **Piccola cappella a pianta rettangolare con porticato antistante, prospetti intonacati; parte delle tessitura muraria originale visibile all'interno e da vecchie fotografie; osservati in superficie frammenti ceramici di tarda età moderna e contemporanea.**
-## POI: Cappella della Madonna di Castello
+## Risorsa: Cappella della Madonna di Castello
 **Cappella a pianta rettangolare in muratura alla moderna con recinto d'ingresso. In facciata sono presenti panchine laterali all'apertura di ingresso che appare tamponata e rimaneggiata.**
-## POI: Antro dell'Ugola
+## Risorsa: Antro dell'Ugola
 **Cavità costituita da due aperture, una più ampia e profonda, il cui ingresso ha una conformazione che ricorda un ugola.**
-## POI: Agriturismo Fanny Azienda Agricola
+## Risorsa: Agriturismo Fanny Azienda Agricola
 ****
-## POI: Balzo Rotondo
+## Risorsa: Balzo Rotondo
 ****
-## POI: BeB Casa Natalie
+## Risorsa: B&B Casa Natalie
 ****
-## POI: BeB La Margine - Azienda Agricola
+## Risorsa: BeB La Margine - Azienda Agricola
+** Corso Umberto, n.5, 55022 Casoli LU**
+## Risorsa: B&B La Menata
 ****
-## POI: beB La Menata
+## Risorsa: BeB Val di Lima House
 ****
-## POI: BeB Val di Lima House
-****
-## POI: Buca della Piella
+## Risorsa: Buca della Piella
 **Ampia cavità con stalagmiti e stalattiti con accesso tramite breve cunicolo percorribile chinati. Indagata nel 1975 dal Centro di Studi Archeologici di Lucca, ha restituito frammenti fittili, materiali metallici e monete di III secolo d.C**
-## POI: Canyon Park Canyon Avventura
+## Risorsa: Canyon Park Canyon Avventura
 ****
-## POI: Chiesa di San Pietro
+## Risorsa: Chiesa di San Pietro
 ****
-## POI: Cresta Monte Memoriante 
+## Risorsa: Cresta Monte Memoriante 
 ****
-## POI: Fonte con lavatoio
+## Risorsa: Fonte con lavatoio
 ****
-## POI: Grotta di Ponte Nero 2
+## Risorsa: Grotta di Ponte Nero 2
 **Grotta di medie dimensioni costituita da due aperture; dal deposito originario proviene un'industria litica composta da 282 pezzi attribuibili all'epigravettiano finale e resti faunistici (tra cui Stambecco e Marmotta),  frammenti fittili eneolitici e dell’età del ferro**
-## POI: Inizio di Escursione verso Cocciglia
+## Risorsa: Inizio di Escursione verso Cocciglia
 ****
-## POI: Insediamento ecclesiastico
+## Risorsa: Insediamento ecclesiastico
 **complesso costituito da chiesa a pianta rettagolare con muratura in facciata realizzata in conci squadrati in calcare e arenaria disposti su filari regolari. Le navate laterali, aggiunte successivamente, sono in muratura alla moderna e inglobano il campanile.**
-## POI: Metato
+## Risorsa: Metato
 **Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale**
-## POI: Opposto bar
+## Risorsa: Opposto bar
 ****
-## POI: Penna di Lucchio
+## Risorsa: Penna di Lucchio
 ****
-## POI: Riparo vicino Piella
+## Risorsa: Riparo vicino Piella
 **Riparo di piccole dimensioni posto a circa 150 m a sud della Buca della Piella, su terrazzo fluviare a circa 20 m sopra l'attuale corso del rio di Castello.**
-## POI: Rocca di Lucchio
+## Risorsa: Rocca di Lucchio
 ****
-## POI: T-rafting Val di Lima
+## Risorsa: T-rafting Val di Lima
+**Attività di servizi turistici outdoor**
+## Risorsa: Villa delle Rose
 ****
-## POI: Villa delle Rose
+## Risorsa: Inizio percorso Ugola e Piella
 ****
-## POI: Inizio percorso Ugola e Piella
+## Risorsa: Lucchio accesso
 ****
-## POI: Lucchio accesso
+## Risorsa: Lucchio parcheggio
 ****
-## POI: Lucchio parcheggio
+## Risorsa: Casoli accesso percorso
 ****
-## POI: Casoli accesso percorso
+## Risorsa: Casoli parcheggio
 ****
-## POI: Casoli parcheggio
+## Risorsa: Deviazione per Memoriante
 ****
-## POI: Deviazione per Memoriante
+## Risorsa: Deviazione percorso di costa
 ****
-## POI: Deviazione percorso di costa
+## Risorsa: Deviazione Penna di Lucchio
 ****
-## POI: Deviazione Penna di Lucchi
-****
+## Risorsa: Itinerario Casoli-Lucchio
+[<img src='/vignettes/XNdwQ7LB.jpg' width='250'/>](/vignettes/XNdwQ7LB.jpg) 
+
+**Percorso ad anello che collega i paesi di Lucchio e Casoli, attraverso un sentiero per lo più di versante che gira intorno al complesso della Penna di Lucchio-Monte Memoriante, riprendendo l'antica mulattiera, attualmente i sentieri CAI 386 e 388.
+Percorso naturalistico di media difficoltà.
+**
+## Risorsa: Itinerario per Buca La Piella
+*Non è disponibile l'immagine relativa alla feature* 
+
+## Risorsa: Itinerario Lucchio-Monte Memoriante
+**Percorso ad anello che dal paese di Lucchio raggiunge le cime del Monte Memoriante e del Balzo Rotondo attraverso un sentiero di cresta.
+Percorso naturalistico, difficile.**
+## Risorsa: Itinerario Lucchio-Penna di Lucchio
+**Percorso ad anello che dal paese di Lucchio raggiunge la cima della Penna di Lucchio, per metà lungo un sentiero di cresta (sentiero CAI 384) e l'altra metà lungo il versante est del rilievo (sentiero CAI 388).
+Percorso naturalistico di media difficoltà.**
+## Risorsa: Itinerario Casoli-Cocciglia
+**Percorso che collega il paese di Casoli e il paese di Cocciglia, passando per Ponte Nero.
+Percorso storico - archeologico di livello base di difficoltà**
+## Risorsa: Itinerario per Antro dell'Ugola
+[<img src='/vignettes/XNdwQ7LB.jpg' width='250'/>](/vignettes/XNdwQ7LB.jpg) 
+
+**Breve percorso che porta alla cavità chiamata Antro dell'Ugola. Si percorre nella prima parte il sentiero CAI 386, per poi immettersi su una traccia che sale lungo il versante, fino ad arrivare al sito ipogeo.
+Percorso naturalistico facile; durata: 15 min. Segnaletica assente**
+## Risorsa: Itinerario nell'abitato di Casoli
+**Percorso che dal parcheggio di Casoli propone un itinerario di visita nei pressi del Lago di Casoli e all'interno del paese toccando vari punti di interesse di carattere storico-archeologico.
+Percorso storico archeologico facile; 3,5 km e 1 h di durata**
