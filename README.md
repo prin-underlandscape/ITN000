@@ -70,29 +70,24 @@ Bagni di Lucca Heritage itinerary
 ****
 ## Risorsa: Deviazione Penna di Lucchio
 ****
-## Risorsa: Itinerario Casoli-Lucchio
-[<img src='/vignettes/XNdwQ7LB.jpg' width='250'/>](/vignettes/XNdwQ7LB.jpg) 
-
-**Percorso ad anello che collega i paesi di Lucchio e Casoli, attraverso un sentiero per lo più di versante che gira intorno al complesso della Penna di Lucchio-Monte Memoriante, riprendendo l'antica mulattiera, attualmente i sentieri CAI 386 e 388.
-Percorso naturalistico di media difficoltà.
-**
-## Risorsa: Itinerario per Buca La Piella
+## Itinerario: Itinerario per Buca La Piella
 *Non è disponibile l'immagine relativa alla feature* 
 
-## Risorsa: Itinerario Lucchio-Monte Memoriante
-**Percorso ad anello che dal paese di Lucchio raggiunge le cime del Monte Memoriante e del Balzo Rotondo attraverso un sentiero di cresta.
-Percorso naturalistico, difficile.**
-## Risorsa: Itinerario Lucchio-Penna di Lucchio
-**Percorso ad anello che dal paese di Lucchio raggiunge la cima della Penna di Lucchio, per metà lungo un sentiero di cresta (sentiero CAI 384) e l'altra metà lungo il versante est del rilievo (sentiero CAI 388).
-Percorso naturalistico di media difficoltà.**
-## Risorsa: Itinerario Casoli-Cocciglia
-**Percorso che collega il paese di Casoli e il paese di Cocciglia, passando per Ponte Nero.
-Percorso storico - archeologico di livello base di difficoltà**
-## Risorsa: Itinerario per Antro dell'Ugola
-[<img src='/vignettes/XNdwQ7LB.jpg' width='250'/>](/vignettes/XNdwQ7LB.jpg) 
+## Itinerario: Itinerario Lucchio-Penna di Lucchio
+*Non è disponibile l'immagine relativa alla feature* 
 
-**Breve percorso che porta alla cavità chiamata Antro dell'Ugola. Si percorre nella prima parte il sentiero CAI 386, per poi immettersi su una traccia che sale lungo il versante, fino ad arrivare al sito ipogeo.
-Percorso naturalistico facile; durata: 15 min. Segnaletica assente**
-## Risorsa: Itinerario nell'abitato di Casoli
-**Percorso che dal parcheggio di Casoli propone un itinerario di visita nei pressi del Lago di Casoli e all'interno del paese toccando vari punti di interesse di carattere storico-archeologico.
-Percorso storico archeologico facile; 3,5 km e 1 h di durata**
+## Itinerario: Itinerario Lucchio-Monte Memoriante
+*Non è disponibile l'immagine relativa alla feature* 
+
+## Itinerario: Itinerario Casoli-Lucchio
+*Non è disponibile l'immagine relativa alla feature* 
+
+## Itinerario: Itinerario Casoli-Cocciglia
+*Non è disponibile l'immagine relativa alla feature* 
+
+## Itinerario: Itinerario nell'abitato di Casoli
+*Non è disponibile l'immagine relativa alla feature* 
+
+## Itinerario: Itinerario per Antro dell'Ugola
+*Non è disponibile l'immagine relativa alla feature* 
+
