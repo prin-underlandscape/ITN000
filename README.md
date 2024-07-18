@@ -1,5 +1,10 @@
 # ITN000 ([mappa](https://umap.openstreetmap.fr/it/map/itn000_1050205))
 Bagni di Lucca Heritage itinerary 
+
+Questo dataset fa parte dei risultati del progetto [PRIN Underlandscape](https://sites.google.com/view/prin-underlandscape/)
+
+La mappa di sommario con tutti i dataset prodotti nel corso del progetto è disponibile a questo [link](https://umap.openstreetmap.fr/it/map/sommario_1044830)
+
 ## Risorsa:  Lago di Casoli
 **Lago di origine glaciale, alla cui sponda sud è stata rinvenuta un'area di dispersione di materiale area di dispersione di materiali ceramici (ceramica a pareti sottili, maiolica arcaica tarda, ceramica invetriata postmedievale e slip-ware), che ne attesta una frequentazione dall'età romana.**
 ## Risorsa: Chiesa di Sant'Andrea de Lacu
