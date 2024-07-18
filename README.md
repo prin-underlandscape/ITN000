@@ -18,7 +18,7 @@ La mappa di sommario con tutti i dataset prodotti nel corso del progetto è disp
 ## Risorsa: Antro dell'Ugola
 **Cavità costituita da due aperture, una più ampia e profonda, il cui ingresso ha una conformazione che ricorda un ugola.**
 ## Risorsa: Agriturismo Fanny Azienda Agricola
-****
+**Azienda agricola e agriturismo**
 ## Risorsa: Balzo Rotondo
 ****
 ## Risorsa: B&B Casa Natalie
@@ -30,9 +30,11 @@ La mappa di sommario con tutti i dataset prodotti nel corso del progetto è disp
 ## Risorsa: BeB Val di Lima House
 ****
 ## Risorsa: Buca della Piella
+[<img src='/vignettes/d0XYVD4S.jpg' width='250'/>](/vignettes/d0XYVD4S.jpg) 
+
 **Ampia cavità con stalagmiti e stalattiti con accesso tramite breve cunicolo percorribile chinati. Indagata nel 1975 dal Centro di Studi Archeologici di Lucca, ha restituito frammenti fittili, materiali metallici e monete di III secolo d.C**
 ## Risorsa: Canyon Park Canyon Avventura
-****
+**Centro servizi turistici outdoor, ecolab, mindfulness**
 ## Risorsa: Chiesa di San Pietro
 ****
 ## Risorsa: Cresta Monte Memoriante 
@@ -48,12 +50,16 @@ La mappa di sommario con tutti i dataset prodotti nel corso del progetto è disp
 ## Risorsa: Metato
 **Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale**
 ## Risorsa: Opposto bar
-****
+**Punto di ristoro**
 ## Risorsa: Penna di Lucchio
 ****
 ## Risorsa: Riparo vicino Piella
+[<img src='/vignettes/wTHnqrF3.jpg' width='250'/>](/vignettes/wTHnqrF3.jpg) 
+
 **Riparo di piccole dimensioni posto a circa 150 m a sud della Buca della Piella, su terrazzo fluviare a circa 20 m sopra l'attuale corso del rio di Castello.**
 ## Risorsa: Rocca di Lucchio
+[<img src='/vignettes/d0XYVD4S.jpg' width='250'/>](/vignettes/d0XYVD4S.jpg) 
+
 ****
 ## Risorsa: T-rafting Val di Lima
 **Attività di servizi turistici outdoor**
