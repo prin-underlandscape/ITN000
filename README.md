@@ -8,12 +8,20 @@ La mappa di sommario con tutti i dataset prodotti nel corso del progetto è disp
 ## Risorsa:  Lago di Casoli
 **Lago di origine glaciale, alla cui sponda sud è stata rinvenuta un'area di dispersione di materiale area di dispersione di materiali ceramici (ceramica a pareti sottili, maiolica arcaica tarda, ceramica invetriata postmedievale e slip-ware), che ne attesta una frequentazione dall'età romana.**
 ## Risorsa: Chiesa di Sant'Andrea de Lacu
+[<img src='/vignettes/ncXGqgL9.jpg' width='250'/>](/vignettes/ncXGqgL9.jpg) 
+
 **corpo di fabbrica a pianta rettangolare con abside semi-circolare sul lato est, con muratura in bozze litiche squadrate o riquadrate su filari regolari; di fianco all'abside si trova un edificio residenziale (?) costituito da un corpo di fabbrica in muratura bassomedievale**
 ## Risorsa: Castello di Casoli
+[<img src='/vignettes/65hGSNpm.jpg' width='250'/>](/vignettes/65hGSNpm.jpg) 
+
 **Complesso della rocca sommitale con edifici di servizio, cinta muraria sul lato N e W, cisterna e possibile torre; sporadici frammenti ceramici bassomedievali**
 ## Risorsa: Cappella della Madonna di Col del Piano
+[<img src='/vignettes/mDQrHQc5.jpg' width='250'/>](/vignettes/mDQrHQc5.jpg) 
+
 **Piccola cappella a pianta rettangolare con porticato antistante, prospetti intonacati; parte delle tessitura muraria originale visibile all'interno e da vecchie fotografie; osservati in superficie frammenti ceramici di tarda età moderna e contemporanea.**
 ## Risorsa: Cappella della Madonna di Castello
+[<img src='/vignettes/FKVy9QT8.jpg' width='250'/>](/vignettes/FKVy9QT8.jpg) 
+
 **Cappella a pianta rettangolare in muratura alla moderna con recinto d'ingresso. In facciata sono presenti panchine laterali all'apertura di ingresso che appare tamponata e rimaneggiata.**
 ## Risorsa: Antro dell'Ugola
 **Cavità costituita da due aperture, una più ampia e profonda, il cui ingresso ha una conformazione che ricorda un ugola.**
@@ -48,6 +56,8 @@ La mappa di sommario con tutti i dataset prodotti nel corso del progetto è disp
 ## Risorsa: Insediamento ecclesiastico
 **complesso costituito da chiesa a pianta rettagolare con muratura in facciata realizzata in conci squadrati in calcare e arenaria disposti su filari regolari. Le navate laterali, aggiunte successivamente, sono in muratura alla moderna e inglobano il campanile.**
 ## Risorsa: Metato
+[<img src='/vignettes/yNPM25Kc.jpg' width='250'/>](/vignettes/yNPM25Kc.jpg) 
+
 **Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale**
 ## Risorsa: Opposto bar
 **Punto di ristoro**
