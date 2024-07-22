@@ -38,7 +38,7 @@ La mappa di sommario con tutti i dataset prodotti nel corso del progetto è disp
 ## Risorsa: BeB Val di Lima House
 ****
 ## Risorsa: Buca della Piella
-[<img src='/vignettes/d0XYVD4S.jpg' width='250'/>](/vignettes/d0XYVD4S.jpg) 
+[<img src='/vignettes/QCdY5Y85.jpg' width='250'/>](/vignettes/QCdY5Y85.jpg) 
 
 **Ampia cavità con stalagmiti e stalattiti con accesso tramite breve cunicolo percorribile chinati. Indagata nel 1975 dal Centro di Studi Archeologici di Lucca, ha restituito frammenti fittili, materiali metallici e monete di III secolo d.C**
 ## Risorsa: Canyon Park Canyon Avventura
