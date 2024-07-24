@@ -8,19 +8,19 @@ La mappa di sommario con tutti i dataset prodotti nel corso del progetto è disp
 ## Risorsa:  Lago di Casoli
 **Lago di origine glaciale, alla cui sponda sud è stata rinvenuta un'area di dispersione di materiale area di dispersione di materiali ceramici (ceramica a pareti sottili, maiolica arcaica tarda, ceramica invetriata postmedievale e slip-ware), che ne attesta una frequentazione dall'età romana.**
 ## Risorsa: Chiesa di Sant'Andrea de Lacu
-[<img src='/vignettes/ncXGqgL9.jpg' width='250'/>](/vignettes/ncXGqgL9.jpg) 
+[<img src=vignettes/ncXGqgL9.jpg width='250'/>](ncXGqgL9.jpg) 
 
 **corpo di fabbrica a pianta rettangolare con abside semi-circolare sul lato est, con muratura in bozze litiche squadrate o riquadrate su filari regolari; di fianco all'abside si trova un edificio residenziale (?) costituito da un corpo di fabbrica in muratura bassomedievale**
 ## Risorsa: Castello di Casoli
-[<img src='/vignettes/65hGSNpm.jpg' width='250'/>](/vignettes/65hGSNpm.jpg) 
+[<img src=vignettes/65hGSNpm.jpg width='250'/>](65hGSNpm.jpg) 
 
 **Complesso della rocca sommitale con edifici di servizio, cinta muraria sul lato N e W, cisterna e possibile torre; sporadici frammenti ceramici bassomedievali**
 ## Risorsa: Cappella della Madonna di Col del Piano
-[<img src='/vignettes/mDQrHQc5.jpg' width='250'/>](/vignettes/mDQrHQc5.jpg) 
+[<img src=vignettes/mDQrHQc5.jpg width='250'/>](mDQrHQc5.jpg) 
 
 **Piccola cappella a pianta rettangolare con porticato antistante, prospetti intonacati; parte delle tessitura muraria originale visibile all'interno e da vecchie fotografie; osservati in superficie frammenti ceramici di tarda età moderna e contemporanea.**
 ## Risorsa: Cappella della Madonna di Castello
-[<img src='/vignettes/FKVy9QT8.jpg' width='250'/>](/vignettes/FKVy9QT8.jpg) 
+[<img src=vignettes/FKVy9QT8.jpg width='250'/>](FKVy9QT8.jpg) 
 
 **Cappella a pianta rettangolare in muratura alla moderna con recinto d'ingresso. In facciata sono presenti panchine laterali all'apertura di ingresso che appare tamponata e rimaneggiata.**
 ## Risorsa: Antro dell'Ugola
@@ -36,13 +36,13 @@ La mappa di sommario con tutti i dataset prodotti nel corso del progetto è disp
 ## Risorsa: B&B La Menata
 ****
 ## Risorsa: BeB Val di Lima House
-****
+**Bed and Breakfast in Val di Lima (Casoli); offre pacchetti vacanza outdoor in collaborazione con Rockonda Srl**
 ## Risorsa: Buca della Piella
-[<img src='/vignettes/QCdY5Y85.jpg' width='250'/>](/vignettes/QCdY5Y85.jpg) 
+[<img src=vignettes/QCdY5Y85.jpg width='250'/>](QCdY5Y85.jpg) 
 
 **Ampia cavità con stalagmiti e stalattiti con accesso tramite breve cunicolo percorribile chinati. Indagata nel 1975 dal Centro di Studi Archeologici di Lucca, ha restituito frammenti fittili, materiali metallici e monete di III secolo d.C**
 ## Risorsa: Canyon Park Canyon Avventura
-**Centro servizi turistici outdoor, ecolab, mindfulness**
+**Centro servizi turistici outdoor, ecolab, mindfulness e pacchetti vacanza sportivi e naturalistici**
 ## Risorsa: Chiesa di San Pietro
 ****
 ## Risorsa: Cresta Monte Memoriante 
@@ -56,7 +56,7 @@ La mappa di sommario con tutti i dataset prodotti nel corso del progetto è disp
 ## Risorsa: Insediamento ecclesiastico
 **complesso costituito da chiesa a pianta rettagolare con muratura in facciata realizzata in conci squadrati in calcare e arenaria disposti su filari regolari. Le navate laterali, aggiunte successivamente, sono in muratura alla moderna e inglobano il campanile.**
 ## Risorsa: Metato
-[<img src='/vignettes/yNPM25Kc.jpg' width='250'/>](/vignettes/yNPM25Kc.jpg) 
+[<img src=vignettes/yNPM25Kc.jpg width='250'/>](yNPM25Kc.jpg) 
 
 **Complesso architettonico a pianta rettangolare in muratura alla moderna, a due piani, con accesso in quota per carico delle castagne e tettoia laterale**
 ## Risorsa: Opposto bar
@@ -64,11 +64,11 @@ La mappa di sommario con tutti i dataset prodotti nel corso del progetto è disp
 ## Risorsa: Penna di Lucchio
 ****
 ## Risorsa: Riparo vicino Piella
-[<img src='/vignettes/wTHnqrF3.jpg' width='250'/>](/vignettes/wTHnqrF3.jpg) 
+[<img src=vignettes/wTHnqrF3.jpg width='250'/>](wTHnqrF3.jpg) 
 
 **Riparo di piccole dimensioni posto a circa 150 m a sud della Buca della Piella, su terrazzo fluviare a circa 20 m sopra l'attuale corso del rio di Castello.**
 ## Risorsa: Rocca di Lucchio
-[<img src='/vignettes/d0XYVD4S.jpg' width='250'/>](/vignettes/d0XYVD4S.jpg) 
+[<img src=vignettes/d0XYVD4S.jpg width='250'/>](d0XYVD4S.jpg) 
 
 ****
 ## Risorsa: T-rafting Val di Lima
