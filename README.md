@@ -38,7 +38,7 @@ Cappella a pianta rettangolare in muratura alla moderna con recinto d'ingresso. 
 ## Risorsa: Antro dell'Ugola
 Cavità costituita da due aperture, una più ampia e profonda, il cui ingresso ha una conformazione che ricorda un ugola.
 
-*Nessuna immagine* 
+[<img src=vignettes/65qYqCfL.jpg width='250'/>](65qYqCfL.jpg) 
 
 **Cavità costituita da due aperture, una più ampia e profonda, il cui ingresso ha una conformazione che ricorda un ugola.**
 ## Risorsa: Agriturismo Fanny Azienda Agricola
@@ -48,12 +48,12 @@ Azienda agricola e agriturismo
 
 **Azienda agricola e agriturismo**
 ## Risorsa: Balzo Rotondo
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Balzo Rotondo (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
 ## Risorsa: B&B Casa Natalie
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di B&B Casa Natalie (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
@@ -64,7 +64,7 @@ Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
 
 ** Corso Umberto, n.5, 55022 Casoli LU**
 ## Risorsa: B&B La Menata
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di B&B La Menata (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
@@ -83,21 +83,21 @@ Ampia cavità con stalagmiti e stalattiti con accesso tramite breve cunicolo per
 ## Risorsa: Canyon Park Canyon Avventura
 Centro servizi turistici outdoor, ecolab, mindfulness e pacchetti vacanza sportivi e naturalistici
 
-*Nessuna immagine* 
+[<img src=vignettes/3Rr26HLC.jpg width='250'/>](3Rr26HLC.jpg) 
 
 **Centro servizi turistici outdoor, ecolab, mindfulness e pacchetti vacanza sportivi e naturalistici**
 ## Risorsa: Chiesa di San Pietro
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Chiesa di San Pietro (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
 ## Risorsa: Cresta Monte Memoriante 
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Cresta Monte Memoriante  (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
 ## Risorsa: Fonte con lavatoio
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Fonte con lavatoio (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
@@ -108,7 +108,7 @@ Grotta di medie dimensioni costituita da due aperture; dal deposito originario p
 
 **Grotta di medie dimensioni costituita da due aperture; dal deposito originario proviene un'industria litica composta da 282 pezzi attribuibili all'epigravettiano finale e resti faunistici (tra cui Stambecco e Marmotta),  frammenti fittili eneolitici e dell’età del ferro**
 ## Risorsa: Inizio di Escursione verso Cocciglia
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Inizio di Escursione verso Cocciglia (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
@@ -131,7 +131,7 @@ Punto di ristoro
 
 **Punto di ristoro**
 ## Risorsa: Penna di Lucchio
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Penna di Lucchio (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
@@ -142,7 +142,7 @@ Riparo di piccole dimensioni posto a circa 150 m a sud della Buca della Piella, 
 
 **Riparo di piccole dimensioni posto a circa 150 m a sud della Buca della Piella, su terrazzo fluviare a circa 20 m sopra l'attuale corso del rio di Castello.**
 ## Risorsa: Rocca di Lucchio
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Rocca di Lucchio (Risorsa) mancante
 [<img src=vignettes/d0XYVD4S.jpg width='250'/>](d0XYVD4S.jpg) 
 
 ****
@@ -153,47 +153,47 @@ Attività di servizi turistici outdoor
 
 **Attività di servizi turistici outdoor**
 ## Risorsa: Villa delle Rose
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Villa delle Rose (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
 ## Risorsa: Inizio percorso Ugola e Piella
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Inizio percorso Ugola e Piella (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
 ## Risorsa: Lucchio accesso
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Lucchio accesso (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
 ## Risorsa: Lucchio parcheggio
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Lucchio parcheggio (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
 ## Risorsa: Casoli accesso percorso
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Casoli accesso percorso (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
 ## Risorsa: Casoli parcheggio
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Casoli parcheggio (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
 ## Risorsa: Deviazione per Memoriante
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Deviazione per Memoriante (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
 ## Risorsa: Deviazione percorso di costa
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Deviazione percorso di costa (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
 ## Risorsa: Deviazione Penna di Lucchio
-Descrizione di {feature['properties']['Titolo']} ({ulsp_type) mancante
+Descrizione di Deviazione Penna di Lucchio (Risorsa) mancante
 *Nessuna immagine* 
 
 ****
