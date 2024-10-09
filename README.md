@@ -1,6 +1,5 @@
-# ITN000 ([mappa](https://umap.openstreetmap.fr/it/map/itn000_1050205))
-Bagni di Lucca Heritage itinerary 
-
+# ITN000 (mappa non collegata)
+descrizione del dataset mancante
 Questo dataset fa parte dei risultati del progetto [PRIN Underlandscape](https://sites.google.com/view/prin-underlandscape/)
 
 La mappa di sommario con tutti i dataset prodotti nel corso del progetto è disponibile a questo [link](https://umap.openstreetmap.fr/it/map/sommario_1044830)
@@ -232,3 +231,9 @@ Breve percorso che porta alla cavità chiamata Antro dell'Ugola. Si percorre nel
 
 *Non è disponibile l'immagine relativa alla feature* 
 
+## Risorsa: Bar Ristorante Da Marina 
+Corso Umberto, 1, 55022 Casoli LU
+
+*Nessuna immagine* 
+
+**Corso Umberto, 1, 55022 Casoli LU**

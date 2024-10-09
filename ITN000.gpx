@@ -175,6 +175,11 @@
     <name>Deviazione Penna di Lucchio</name>
     <desc></desc>
   </wpt>
+  <wpt lat="44.038125" lon="10.671319">
+    <ele>500</ele>
+    <name>Bar Ristorante Da Marina </name>
+    <desc>Corso Umberto, 1, 55022 Casoli LU</desc>
+  </wpt>
   <trk>
     <name>Itinerario per Buca La Piella</name>
     <desc>Breve percorso che porta alla cavità chiamata Buca La Piella. Nel primo tratto si percorre il sentiero CAI 386, per poi lasciarlo una volta arrivati al torrente. Proseguire lungo il letto del Rio di Castello fino a una deviazione che sale sul versante destro fino a giungere all'ingresso della grotta.</desc>
