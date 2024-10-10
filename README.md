@@ -1,5 +1,6 @@
-# ITN000 (mappa non collegata)
-descrizione del dataset mancante
+# ITN000 ([mappa](https://umap.openstreetmap.fr/it/map/itn000_1050205))
+Bagni di Lucca Heritage itinerary
+
 Questo dataset fa parte dei risultati del progetto [PRIN Underlandscape](https://sites.google.com/view/prin-underlandscape/)
 
 La mappa di sommario con tutti i dataset prodotti nel corso del progetto è disponibile a questo [link](https://umap.openstreetmap.fr/it/map/sommario_1044830)
